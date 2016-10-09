@@ -1,0 +1,114 @@
+h1 {
+
+	color: #4A2608;
+	text-align: center;
+}
+img.logo{
+	display: block;
+	margin: auto;
+}
+
+.des_pic {
+
+	padding: -10px;
+
+ text-align: center;
+ font-weight: bold;
+}
+
+.pandaImg {
+	display: block;
+	width: 640px;
+	margin: auto;
+ border: 1px;
+
+}
+nav li {
+text-align: center;
+display: inline-block;
+width: 20px;
+margin-right: 40px;
+margin-left: 20px;
+margin-top:20px ;
+margin-bottom: 20px;
+padding-top: 0px;
+}
+
+h2{
+
+	text-align: center;
+	color: #4A2608;
+
+}
+
+.mission{
+	vertical-align: top;
+
+}
+body {
+			border: 5px solid #4F0C04;
+			margin: 0 auto;
+			width: 800px;
+			text-align: center;
+			font-family: sans-serif;
+			text-decoration-style: none;
+
+}
+div{
+	color: #997208;
+	display: inline-block;
+}
+.email{
+color: black;
+}
+footer{
+	text-align: center
+}
+a {
+
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: red;
+
+}
+nav {
+	 text-align: center;
+	border: 1px solid black;
+	background-color: black;
+	margin-top: 5px;
+	margin-bottom: 25px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	text-decoration-style: none;
+	}
+
+
+
+	section {
+
+		display: inline-block;
+			width: 31%;
+			vertical-align: top;
+
+	}
+	footer{
+		color: #FFFFFF;
+		background-color: #381206;
+	  padding: 15px;
+	  margin: 15px;
+	  text-align: center;
+	}
+		a:visited {
+		    text-decoration: #FFFFFF;
+		}
+
+		a:hover {
+		    text-decoration: #FFFFFF;
+		}
+
+		a:active {
+		    text-decoration: #FFFFFF;
+		}
+	}
